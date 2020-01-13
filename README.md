@@ -2,6 +2,8 @@
 
 Face recognition sederhana. 
 
+![Imgur](https://i.imgur.com/EVAYo74.png)
+
 # Cara Menggunakan
 
 Install module Python sesuai yang ada di requirements.txt
@@ -30,8 +32,14 @@ tekan tombol `f` untuk menampilkan mode face detector, tekan `f` lagi untuk kelu
 
 Tekan tombol `TAB` untuk menampilkan mode selector, video akan berhenti. Tekan `c` untuk cancel.
 
+![Imgur](https://i.imgur.com/IaNjwTO.png)
+
 Drag kotak diatas gambar wajah yg diinginkan, tekan `ENTER`, kemudian akan keluar window untuk memasukkan label. Setelah memasukkan label, tekan `ENTER` kembali. 
 
+![Imgur](https://i.imgur.com/ZzhCJ5M.png)
+
 Maka wajah tersebut akan dikenali jika masuk ke dalam mode face detector.
+
+![Imgur](https://i.imgur.com/MJFOPuB.png)
 
 
