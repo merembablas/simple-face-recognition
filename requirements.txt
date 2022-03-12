@@ -5,4 +5,4 @@ face-recognition-models==0.3.0
 imutils==0.5.3
 numpy==1.18.1
 opencv-contrib-python==4.1.2.30
-Pillow==8.1.1
+Pillow==9.0.1
